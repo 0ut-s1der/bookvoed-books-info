@@ -16,3 +16,8 @@
 - re
 - bs4 (BeautifulSoup)
 - requests
+ 
+ Для программы json_to_exel используются библиотеки:
+ - json
+ - os.path
+ - pandas
